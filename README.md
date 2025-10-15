@@ -22,6 +22,17 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-10-15 at 15 17 36_41bbc00d](https://github.com/user-attachments/assets/5ef383d4-5e19-40da-82db-954234f533ad)
+
+**CALCULATION**
+![WhatsApp Image 2025-10-15 at 15 11 44_70efba4c](https://github.com/user-attachments/assets/935fa2ad-d9df-4576-a1f5-14f160a62551)
+![WhatsApp Image 2025-10-15 at 15 12 14_4ebfce43](https://github.com/user-attachments/assets/009ca785-dc76-4297-8762-23cf2258299a)
+**MARK SPLIT-UP**
+![WhatsApp Image 2025-10-15 at 15 07 04_3aec6fc4](https://github.com/user-attachments/assets/df7358a5-8b17-4ada-80c7-0b2775a620ff)
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
